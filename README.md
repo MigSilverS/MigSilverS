@@ -27,9 +27,9 @@
     <img align="center" height="30" width="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img align="center" height="30" width="40" alt="sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-    <img align="right" height="30" width="40" alt="gif" src="" />
+
 </div>
 
 <br/>
 
-Muito mais do que os olhos podem ver 😎
+![gif](https://github.com/MigSilverS/MigSilverS/assets/48215025/790b1db4-ad86-4455-89a8-7b53d49c80f1)
