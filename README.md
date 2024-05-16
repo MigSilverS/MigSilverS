@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, bem vindo ao meu perfil ✌
 
-<!--
-**MigSilverS/MigSilverS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/migp_s/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-prata-silva-42562b27b/)
 
-Here are some ideas to get you started:
+![Mig's GitHub stats](https://github-readme-stats.vercel.app/api?username=MigSilverS&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html" src"https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="css" src"https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+</div>
