@@ -10,7 +10,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigSilverS&layout=compact&theme=dark" />
 </a>
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso
 
 
 <div style="display: inline_block"><br/>
