@@ -55,23 +55,6 @@ Olá, seja bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnolog
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
 
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MigSilverS&repo=NOME_DO_REPOSITORIO&theme=tokyonight)](https://github.com/MigSilverS/NOME_DO_REPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MigSilverS&repo=NOME_DO_REPOSITORIO&theme=tokyonight)](https://github.com/MigSilverS/NOME_DO_REPOSITORIO)
-
-</div>
-
-## 📈 Contribuições
-
-<div align="center">
-  
-![Snake animation](https://github.com/MigSilverS/MigSilverS/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 ---
 
 <div align="center">
