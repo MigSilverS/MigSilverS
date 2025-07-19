@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=210&section=header&text=Miguel%20Prata%20Silva&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:FFD700&height=210&section=header&text=Miguel%20Prata%20Silva&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=55&descSize=20" />
 
 # 👨‍💻 Sobre mim
 
@@ -23,8 +23,8 @@ Olá, seja bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnolog
 
 <div align="center">
   <a href="https://github.com/MigSilverS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MigSilverS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigSilverS&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MigSilverS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigSilverS&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
@@ -58,9 +58,9 @@ Olá, seja bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnolog
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MigSilverS&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MigSilverS&color=FF0000" alt="Profile views"/>
   
   ### "Código é como humor. Quando você tem que explicar, é ruim." – Cory House
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF0000&height=120&section=footer" />
